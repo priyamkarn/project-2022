@@ -1,0 +1,15 @@
+{
+  "name": "land-registration-using-ethereum-blockchain--main",
+  "version": "1.0.0",
+  "description": "Land Registration and transfer system using Blockchain",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.3",
+    "fs": "^0.0.1-security"
+  }
+}
